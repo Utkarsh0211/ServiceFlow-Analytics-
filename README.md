@@ -1,7 +1,7 @@
 # ServiceFlow Analytics  
 ## Operations-to-Cash Performance Intelligence
 
-ServiceFlow Analytics is an end-to-end Business Analysis and Analytics project focused on improving visibility across the Operations-to-Cash lifecycle for a fictional field services company, **GreenScape Services Inc.**
+ServiceFlow Analytics is an end-to-end Business Analysis and Analytics project designed to diagnose and improve visibility across the Operations-to-Cash lifecycle for a fictional field services company, **GreenScape Services Inc.**
 
 The project demonstrates how operational data and financial data can be unified to identify invoicing delays, revenue exposure, collections risk, and cost overruns using SQL and Power BI.
 
@@ -13,8 +13,8 @@ The project demonstrates how operational data and financial data can be unified 
 
 GreenScape Services Inc. operates in the landscaping and grounds maintenance industry, serving commercial clients through recurring maintenance and project-based work.
 
-Although the intended workflow is straightforward  
-**Job Completion → Invoicing → Payment Collection**,  
+Although the intended workflow is straightforward —
+**Job Completion → Invoicing → Payment Collection** —
 The organisation faces frequent breakdowns between Operations and Finance.
 
 ### Key Problems Addressed
@@ -57,6 +57,8 @@ This project aims to:
 - Regions, Services, Status Dimensions
 
 ---
+
+The solution is delivered through a four-page Power BI dashboard, each page aligned to a specific business audience and decision focus.
 
 ## Dashboards Overview
 
@@ -129,15 +131,17 @@ Exception-focused view highlighting operational-to-financial gaps.
 - **817 jobs with cost overruns**
 - Highest job cost variance: **$23.6K**
 
+These findings indicate material revenue leakage risk, delayed cash realization, and insufficient early visibility into operational cost overruns.
+
 ---
 
 ## Recommendations
 
 - Implement automated alerts for completed-but-not-invoiced jobs
-- Prioritize invoicing for aged unbilled work
+- Prioritise invoicing for aged unbilled work
 - Introduce early warning thresholds for cost overruns
-- Monitor DSO and overdue trends weekly, not monthly
-- Use exception dashboards as part of month-end close
+- Establish weekly monitoring of DSO and overdue trends as part of the Finance operating rhythm
+- Use exception dashboards as part of the month-end close
 - Reduce manual reconciliation through standardized KPIs
 
 ---
