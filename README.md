@@ -63,7 +63,7 @@ This project aims to:
 ### Page 1 – Executive Summary  
 High-level snapshot for leadership covering operational throughput, revenue exposure, and collections health.
 
-![Executive Summary](dashboards/page_1_executive_summary.png)
+![Executive Summary](dashboards/executive_summary.png)
 
 **Key KPIs**
 - Total Jobs
@@ -78,7 +78,7 @@ High-level snapshot for leadership covering operational throughput, revenue expo
 ### Page 2 – Operational Performance  
 Execution-focused view for Operations teams.
 
-![Operational Performance](dashboards/page_2_operations_performance.png)
+![Operational Performance](dashboards/operations_performance.png)
 
 **Insights Covered**
 - Job completion trends
@@ -92,7 +92,7 @@ Execution-focused view for Operations teams.
 ### Page 3 – Finance & Collections  
 Receivables and cash flow monitoring for Finance.
 
-![Finance & Collections](dashboards/page_3_finance_collections.png)
+![Finance & Collections](dashboards/finance_collections.png)
 
 **Insights Covered**
 - Average DSO vs target
@@ -106,7 +106,7 @@ Receivables and cash flow monitoring for Finance.
 ### Page 4 – Reconciliation & Exceptions  
 Exception-focused view highlighting operational-to-financial gaps.
 
-![Reconciliation & Exceptions](dashboards/page_4_reconciliation_exceptions.png)
+![Reconciliation & Exceptions](dashboards/reconciliation_exceptions.png)
 
 **Insights Covered**
 - Completed but not invoiced jobs
