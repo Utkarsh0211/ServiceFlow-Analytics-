@@ -1,4 +1,4 @@
-# ServiceFlow Analytics  
+# ServiceFlow Analytics
 ## Operations-to-Cash Performance Intelligence
 
 ServiceFlow Analytics is an end-to-end Business Analysis and Analytics project designed to diagnose and improve visibility across the Operations-to-Cash lifecycle for a fictional field services company, **GreenScape Services Inc.**
